@@ -1,0 +1,12 @@
+{
+    "Student":[
+        {"name":"Zaheen","no":1,"year": 2020}
+    ],
+    "Student1":[
+        {"name":"Shifa","no":1,"year": 2020}
+    ],
+    "Student2":[
+        {"name":"Zahab","no":1,"year": 2020}
+    ]
+
+}
